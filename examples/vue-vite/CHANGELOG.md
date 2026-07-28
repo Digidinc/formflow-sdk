@@ -1,5 +1,12 @@
 # @formflowjs/example-vue-vite
 
+## 0.0.5
+
+### Patch Changes
+
+- Updated dependencies [ea7d5d6]
+  - @formflowjs/vue@1.0.4
+
 ## 0.0.4
 
 ### Patch Changes
