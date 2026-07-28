@@ -16,12 +16,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hrahimi270/formflow-sdk.git",
+    "url": "git+https://github.com/Digidinc/formflow-sdk.git",
     "directory": "packages/vue"
   },
-  "homepage": "https://github.com/hrahimi270/formflow-sdk/tree/main/packages/vue",
+  "homepage": "https://github.com/Digidinc/formflow-sdk/tree/main/packages/vue",
   "bugs": {
-    "url": "https://github.com/hrahimi270/formflow-sdk/issues"
+    "url": "https://github.com/Digidinc/formflow-sdk/issues"
   },
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
