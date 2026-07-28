@@ -1,5 +1,13 @@
 # @formflowjs/vue
 
+## 1.0.4
+
+### Patch Changes
+
+- ea7d5d6: Update repository, homepage, and issues URLs to the new Digidinc org (`github.com/Digidinc/formflow-sdk`, and the Strapi plugin link `github.com/Digidinc/strapi-plugin-formflow`) after the GitHub org migration.
+- Updated dependencies [ea7d5d6]
+  - @formflowjs/core@1.0.4
+
 ## 1.0.3
 
 ### Patch Changes
