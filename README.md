@@ -6,7 +6,7 @@
 
 <p align="center">
   Headless, <strong>bring-your-own-markup</strong> frontend SDKs for
-  <a href="https://github.com/hrahimi270/strapi-plugin-formflow">FormFlow</a> — the
+  <a href="https://github.com/Digidinc/strapi-plugin-formflow">FormFlow</a> — the
   <code>@formflowjs/strapi-plugin-formflow</code> Strapi v5 plugin.
 </p>
 
@@ -66,7 +66,7 @@ Per-framework guides (Next.js App Router, Astro islands, Vite, Nuxt) live in eac
 
 ## Links
 
-- **Strapi plugin:** https://github.com/hrahimi270/strapi-plugin-formflow
+- **Strapi plugin:** https://github.com/Digidinc/strapi-plugin-formflow
 - **Examples:** [`examples/`](examples) (React + Vue, Vite)
 
 ## License
