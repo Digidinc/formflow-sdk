@@ -1,5 +1,13 @@
 # @formflowjs/react
 
+## 1.0.5
+
+### Patch Changes
+
+- 7e94c27: Ship the MIT license with each package and clarify Bardiya Rahimi's ownership and Digid Inc.'s commercial publisher role.
+- Updated dependencies [7e94c27]
+  - @formflowjs/core@1.0.5
+
 ## 1.0.4
 
 ### Patch Changes
