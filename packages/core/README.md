@@ -109,4 +109,4 @@ Webhooks, email, exports, and autoresponders are server-only concerns.
 
 ## License
 
-MIT
+[MIT](LICENSE). Developed and maintained by Bardiya Rahimi; commercially published by Digid Inc.
