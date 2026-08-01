@@ -71,4 +71,5 @@ Per-framework guides (Next.js App Router, Astro islands, Vite, Nuxt) live in eac
 
 ## License
 
-MIT
+[MIT](LICENSE). FormFlow is developed and maintained by **Bardiya Rahimi** and
+commercially published by **Digid Inc.**

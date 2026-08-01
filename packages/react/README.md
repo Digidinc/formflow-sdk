@@ -292,4 +292,4 @@ Site keys: the public schema exposes the reCAPTCHA site key + version (`schema.s
 
 ## License
 
-MIT
+[MIT](LICENSE). Developed and maintained by Bardiya Rahimi; commercially published by Digid Inc.

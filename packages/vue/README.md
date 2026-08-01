@@ -226,3 +226,7 @@ Prop getters wire everything for you:
 - **choice groups** — `role="group"` + `aria-labelledby` (via `controlProps`).
 
 No CSS is bundled; style with the `data-*` attributes and the boolean refs.
+
+## License
+
+[MIT](LICENSE). Developed and maintained by Bardiya Rahimi; commercially published by Digid Inc.
