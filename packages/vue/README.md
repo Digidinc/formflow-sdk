@@ -1,6 +1,6 @@
 # @formflowjs/vue
 
-Headless **Vue 3** adapter for [FormFlow](https://github.com/Digidinc/formflow-sdk) — the
+Headless **Vue 3** adapter for [FormFlow](https://formflow.digid.ca) — the
 [`@formflowjs/strapi-plugin-formflow`](https://github.com/Digidinc/strapi-plugin-formflow) Strapi plugin. Fetch a form schema by slug and render it with **your own
 markup and styles** (Tailwind / UnoCSS / plain CSS). This package ships **no
 CSS** and renders **no markup** of its own (except the hidden honeypot input): it

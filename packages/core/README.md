@@ -1,6 +1,6 @@
 # @formflowjs/core
 
-Framework-agnostic engine for [FormFlow](https://github.com/Digidinc/formflow-sdk) — the headless form renderer for the [`@formflowjs/strapi-plugin-formflow`](https://github.com/Digidinc/strapi-plugin-formflow) Strapi plugin.
+Framework-agnostic engine for [FormFlow](https://formflow.digid.ca) — the headless form renderer for the [`@formflowjs/strapi-plugin-formflow`](https://github.com/Digidinc/strapi-plugin-formflow) Strapi plugin.
 
 This package owns everything except the rendering: schema typing, a content-API
 client, client-side validation with **parity to the server**, conditional
