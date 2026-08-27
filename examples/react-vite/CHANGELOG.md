@@ -1,5 +1,12 @@
 # @formflowjs/example-react-vite
 
+## 0.0.7
+
+### Patch Changes
+
+- Updated dependencies [1d86c72]
+  - @formflowjs/react@1.0.6
+
 ## 0.0.6
 
 ### Patch Changes

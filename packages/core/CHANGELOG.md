@@ -1,5 +1,11 @@
 # @formflowjs/core
 
+## 1.0.6
+
+### Patch Changes
+
+- 1d86c72: Point published package documentation to the canonical FormFlow website at `https://formflow.digid.ca`.
+
 ## 1.0.5
 
 ### Patch Changes
